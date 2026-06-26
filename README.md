@@ -1,27 +1,108 @@
-# 💫 About Me:
-I'm currently working on: My Fedora Linux Setup & PowerShell scripting<br>I'm looking to collaborate on: Open source tools and networking projects<br>I'm looking for help with: Advanced Git workflows and Docker<br>I'm currently learning: Linux, Git, PowerShell, Docker<br>Ask me about: Fedora Linux, GNOME customization, PowerShell<br>Fun fact: I switched from Windows 11 to Fedora Linux and never looked back 🐧
+<!-- ====== ANIMIERTER HEADER ====== -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007aff,100:00c6ff&height=200&section=header&text=Vyyperz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+<!-- Typing-Animation -->
+<a href="https://github.com/vyyperz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=007AFF&center=true&vCenter=true&width=600&lines=IT-Apprentice+%E2%9A%99%EF%B8%8F;Fedora+Linux+Enthusiast+%F0%9F%90%A7;Building+stuff+with+Python+%26+TypeScript;Homelab+%7C+Networking+%7C+DevOps" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profil-Aufrufe -->
+<img src="https://komarev.com/ghpvc/?username=vyyperz&style=flat-square&color=007aff" alt="profile views" />
+</div>
+<br/>
+<!-- ====== ABOUT ====== -->
+💫 About Me
+
+yamlname: Vyyperz
+role: IT-Apprentice (Informatiker EFZ)
+location: Solothurn, Switzerland 🇨🇭
+daily_driver: Fedora Linux + GNOME
+focus: [ Linux, Networking, DevOps, Open Source ]
+currently_learning: [ Kubernetes, Terraform, FastAPI, Cloud ]
+fun_fact: "Switched from Windows 11 to Fedora and never looked back 🐧"
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vyyperz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vỹỹpẽrzçh)
+🔭 Ich bastle an meinem Homelab, an self-hosted Tools und an meiner Linux-Umgebung
+🌱 Vertiefe mich grad in Container-Orchestrierung, Infrastructure-as-Code und Full-Stack Development
+🤝 Offen für Kollaboration an Open-Source- und Networking-Projekten
+💬 Fragt mich zu Fedora, GNOME-Customization, PowerShell & Homelab-Setups
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vyyperz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vyyperz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vyyperz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vyyperz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+<!-- ====== TECH STACK ====== -->
+🛠️ Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+💻 Languages
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vyyperz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,powershell,bash" alt="languages" />
+🎨 Frontend
 
----
-[![](https://komarev.com/ghpvc/?username=vyyperz&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" alt="frontend" />
+⚙️ Backend
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="backend" />
+🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="databases" />
+☁️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,nginx,linux,git,github" alt="devops" />
+🌐 Networking & Systems
+
+<img src="https://skillicons.dev/icons?i=cloudflare,ubuntu,debian,raspberrypi" alt="networking" />
+🧰 Tools & Monitoring
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,grafana,prometheus,vmware,obsidian" alt="tools" />
+</div>
+<br/>
+<!-- ====== EXTRA SKILLS (was Icons nicht abbilden) ====== -->
+🧠 Auch mit dabei
+
+<div align="center">
+Active Directory · DHCP · DNS · VLANs · VPN · RADIUS · Firewalls
+Cisco · Ubiquiti · WSUS · Podman · Alembic · WebSockets · Leaflet
+Grafana + Prometheus Stack · SQLAlchemy · JWT Auth · REST APIs
+
+</div>
+<br/>
+<!-- ====== GITHUB STATS ====== -->
+📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vyyperz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=007aff&title_color=007aff" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyyperz&layout=compact&theme=tokyonight&hide_border=true&title_color=007aff" alt="top langs" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vyyperz&theme=tokyonight&hide_border=true&ring=007aff&fire=00c6ff&currStreakLabel=007aff" alt="streak" />
+</div>
+<br/>
+<!-- ====== ACTIVITY GRAPH ====== -->
+📈 Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vyyperz&theme=tokyo-night&hide_border=true&color=007aff&line=00c6ff&point=ffffff&area=true" alt="activity graph" />
+</div>
+<br/>
+<!-- ====== TROPHIES ====== -->
+🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vyyperz&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+</div>
+<br/>
+<!-- ====== SOCIALS ====== -->
+🔗 Connect
+
+<div align="center">
+<a href="https://www.youtube.com/@vÿÿpërzçh">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/vyyperz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</div>
+<br/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:007aff&height=120&section=footer" alt="footer"/>
+</div>
