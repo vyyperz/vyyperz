@@ -120,6 +120,8 @@ fun_fact: Windows 11 -> Fedora, never
 > 🧠 **Auch im Gepäck:** Active Directory · DHCP · DNS · VLANs · VPN · RADIUS · Firewalls · WSUS · SQLAlchemy · Alembic · JWT Auth · Leaflet
 
 <br/>
+<img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/939e89dd-f730-4d36-b7c7-e766c537d223" />
+
 <img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/f1e59d20-de35-4468-bfd5-f28d6baf0a43" />
 <img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/37848130-42c2-4209-843a-1db18acacafd" />
 
