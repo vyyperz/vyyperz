@@ -35,8 +35,6 @@ fun_fact: Windows 11 -> Fedora, never
 
 </td>
 
-<img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/ae7a0b49-38f7-46ca-8baf-2c90c679d3f2" />
-
 <td valign="top" width="42%">
 
 <!-- 👇 HIER kommt dein GIF rein (siehe Anleitung unten) -->
