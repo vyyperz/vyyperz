@@ -40,7 +40,8 @@ fun_fact: Windows 11 -> Fedora, never
 <td valign="top" width="42%">
 
 <!-- 👇 HIER kommt dein GIF rein (siehe Anleitung unten) -->
-<img src="https://raw.githubusercontent.com/vyyperz/vyyperz/main/assets/coding.gif" width="100%" alt="coding gif"/>
+<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/4521a3ed-3def-4bf2-a303-90eb78949739" />
+
 
 </td>
 </tr>
